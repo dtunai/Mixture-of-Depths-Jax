@@ -1,19 +1,19 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**mixture-of-depths-jax** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**mixture-of-depths-jax** is available [on PyPI](https://pypi.org/project/mixture-of-depths-jax/). Just run
 
 ```bash
-pip install my-package
+pip install mixture-of-depths-jax
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **mixture-of-depths-jax** from source, first clone [the repository](https://github.com/allenai/python-package-template):
 
 ```bash
 git clone https://github.com/allenai/python-package-template.git

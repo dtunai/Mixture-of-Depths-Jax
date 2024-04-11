@@ -1,4 +1,4 @@
-# **my-package**
+# **mixture-of-depths-jax**
 
 ```{toctree}
 :maxdepth: 2
